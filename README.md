@@ -1,7 +1,6 @@
-# pandas-challenge-1
-# Yiannis Pagkalos
+# pandas-challenge-1 -  Wholesale Data Analysis
+## Yiannis Pagkalos
 
-# Wholesale Data Analysis
 
 ## Project Overview
 
@@ -23,7 +22,7 @@ The dataset contains information on client orders, including details such as cli
 1. **Data Cleaning and Preparation**:
     - Load the dataset into a DataFrame.
     - Rename columns for better readability.
-    - Identify and handle missing values if any.
+    - Identify and handle missing values, if any.
 
 2. **Calculating Shipping Price**:
     - Calculate the shipping price based on unit weight and quantity.
@@ -31,7 +30,7 @@ The dataset contains information on client orders, including details such as cli
 
 3. **Aggregating Metrics for Top Clients**:
     - Identify the top 5 clients based on total units purchased.
-    - Calculate total units purchased, total shipping price, total revenue, and total profit for these clients.
+    - Calculate the total units purchased, total shipping price, total revenue, and total profit for these clients.
 
 4. **Formatting Monetary Values**:
     - Format monetary values to represent millions of dollars for better readability.
@@ -41,14 +40,14 @@ The dataset contains information on client orders, including details such as cli
 Based on the data analysis, the following conclusions were drawn:
 
 1. **Summary of Key Metrics**:
-    - The top 5 clients contributed significantly to the total revenue and profit with the top clinet accounting for more that 50% of the total revenue
+    - The top 5 clients contributed significantly to the total revenue and profit, with the top client accounting for more than 50% of the total revenue
     - Shipping costs were substantial, highlighting the need for cost optimization.
 
 2. **Top Clients**:
     - These clients placed large orders consistently, indicating high satisfaction levels.
 
 3. **Product Performance**:
-    - the highest revenue category was consumables and within that bathroom supplies
+    - the highest revenue category was consumables, and within that, bathroom supplies
     - Lightweight products had lower shipping costs and contributed positively to profit margins.
 
 4. **Cost Analysis**:
